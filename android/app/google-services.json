@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "266841217368",
+    "project_id": "videoapp-3dbdd",
+    "storage_bucket": "videoapp-3dbdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266841217368:android:6bc7b41efae73c68e5ad2d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266841217368-6m55cnt8d3ktochcnq4c9ra23t69pble.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "5d23684b3ffe6ca1abe9ec7b308fbc6714a712db"
+          }
+        },
+        {
+          "client_id": "266841217368-19i69c4vqj61144tfqd39ikdp01llbhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWU17mGvOL5MIBcbzgAgYPSSzHbe85tBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266841217368-19i69c4vqj61144tfqd39ikdp01llbhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
